@@ -1,4 +1,4 @@
-# I'm changing this too.
+# 100 Devs
 Working on my 100Devs projects - these are indicators of my learning, not of my most recent abilities.
 
-I am not making any changes, no way.
+Please don't take these projects too seriously - I'm just learning.
